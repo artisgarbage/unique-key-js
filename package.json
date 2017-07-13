@@ -1,0 +1,25 @@
+{
+  "name": "unique-key-js",
+  "version": "1.0.0",
+  "description": "Object comparison utility that provides uniqueness information about the keys within an array of objects.",
+  "main": "UniqueKey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Anthony Chavez",
+    "url": "https://github.com/artisgarbage/"
+  },
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "objects",
+    "0dep",
+    "node",
+    "npm"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/artisgarbage/unique-key-js.git"
+  }
+}
